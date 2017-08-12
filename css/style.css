@@ -7858,3 +7858,24 @@ font-size: 20px;
   margin-top: 100px;
 }
 /*** END Ask Alicia styles*****/
+
+/***** Vanessa B Styles *****/
+
+.vanessabucceri-advice {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  background-color: #EFD1C6;
+}
+
+.vanessabucceri-advice h1 {
+  color: #F4512C;
+  padding: 30px;
+}
+
+.vanessabucceri-advice h4 {
+  color: #D72C59;
+  font-size: 1.5em;
+  padding-top: 50px;
+}
+
+/***** END Vanessa B Styles *****/
